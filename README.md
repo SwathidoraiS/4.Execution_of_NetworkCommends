@@ -27,6 +27,13 @@ This commands includes
 <BR>
 
 ## Output
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/06887bec-b9fa-432e-bd0a-872c3a2e2d1c)
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/4930751b-8616-497e-8d70-f59b3d3da420)
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/4c6f89e5-e084-45a5-be23-8ef896285eea)
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/845ebbcc-30af-4268-babf-406025277e46)
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/db782dec-1f44-4787-9e0e-7ae00a4ec4af)
+![image](https://github.com/SwathidoraiS/4.Execution_of_NetworkCommends/assets/144870557/3f6d5c3f-f9c8-42d5-adf1-ee40201bca2d)
+
 
 ## Result
 Thus Execution of Network commands Performed 
